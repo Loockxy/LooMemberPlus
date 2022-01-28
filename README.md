@@ -26,4 +26,4 @@ FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
 
 ## License
 
-FreeMembers+ est licencié sous la licence GPL 3.0. Voir le fichier «LICENCE» pour plus d'informations. Si vous envisagez d'utiliser une partie de ce code source dans votre propre bot, je vous serais reconnaissant d'inclure une forme de crédit quelque part.
+LooMember+ est licencié sous la licence GPL 3.0. Voir le fichier «LICENCE» pour plus d'informations. Si vous envisagez d'utiliser une partie de ce code source dans votre propre bot, je vous serais reconnaissant d'inclure une forme de crédit quelque part.
