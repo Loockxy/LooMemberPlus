@@ -1,12 +1,10 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="LooMember+" src="https://cdn.discordapp.com/attachments/919733303374925844/936751021768708146/Loockxy.png">  
 
-# FreeMembers+
+# LooMember+
 
 [![](https://img.shields.io/discord/929192992160481331.svg?logo=discord&colorB=7289DA)](https://discord.gg/Cn3WRWJ2)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/loockxy)
-
-> Ce bot est utilisé par plus de 12k utilisateurs Discord et plus de 99 serveurs.
 
 * Date de création: Crée le 01 janvier 2022
 * Date de mise en ligne Github: Le 28 janvier 2022
