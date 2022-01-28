@@ -1,0 +1,10 @@
+{
+    "token1": "Token du bot",
+    "EmbedFooter": "(C) 2022 LooMember+",
+    "OwnerID": ["ton ID sur discord"],
+    "reportChannelID": "SERT A RIEN",
+    "supportServer": "https://discord.gg/KBdtUgyvD6",
+    "prefix": "-" 
+}
+
+//Il faut aussi changé le préfix depuis le index.js et dans le help 
