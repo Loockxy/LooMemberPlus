@@ -15,7 +15,7 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 ### Les commandes
 
-FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
+LooMember+ a beaucoup de fonctionnalités pour gagner des membres:
 
 *   🏆 **Owner**: `addbal`, `del`, `ban`, `unban`, `remove`. 
 *   💎 **Général**: `help`, `invite`, `bal`, `pay`, `check`, `info`, `buy`, `giftcode`, `daily`, `stats`.
