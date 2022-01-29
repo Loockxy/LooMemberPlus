@@ -30,7 +30,7 @@ client.on('clickButton', (button) => {
         
        .setDescription(`● Si vous avez besoin d'aide, rejoignez notre [serveur support](${config.supportServer}).\n● \`LooMember+\` a été créer par \`! [𝕮.𝕮] LOOCKXY#5348\`.`)
     
-    .addField("**__Liste des commande:__**", "\`-add`\ : Invitez le bot sur votre serveur\n\`-stats`\ : Voir les statistiques de FreeMember-\n\`-info`\ : Si vous souhaitez plus d'informations sur votre publicité.\n\`-money`\ : Pour voir toutes vos pièces\n\`-buy`\ : Pour acheter une publicité et gagner des membres\n\`-check`\ : Vérifiez si vous pouvez quitter le serveur\n\`-farm`\ : Trouvez des serveurs à rejoindre pour recevoir des pièces\n\`-pay`\ : Pour donner vos pièces à vos amis\n\`-giftcode`\: Pour créer une carte cadeaux", false)
+    .addField("**__Liste des commande:__**", "\`-add`\ : Invitez le bot sur votre serveur\n\`-stats`\ : Voir les statistiques de LooMember+\n\`-info`\ : Si vous souhaitez plus d'informations sur votre publicité.\n\`-money`\ : Pour voir toutes vos pièces\n\`-buy`\ : Pour acheter une publicité et gagner des membres\n\`-check`\ : Vérifiez si vous pouvez quitter le serveur\n\`-farm`\ : Trouvez des serveurs à rejoindre pour recevoir des pièces\n\`-pay`\ : Pour donner vos pièces à vos amis\n\`-giftcode`\: Pour créer une carte cadeaux", false)
     
     .addField("🔗 Links", `[Support](${config.supportServer}) ● [Add Me](https://discord.com/oauth2/authorize?client_id=934395991845666826&permissions=8&scope=bot)`, false)
         .setColor('#2f3136');
